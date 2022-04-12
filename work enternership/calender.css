@@ -1,0 +1,40 @@
+*
+.header
+{
+    color: orange;
+    margin-top: 50px;
+    
+}
+
+
+th
+{
+    color: white; 
+    background: rgb(167, 21, 167);
+    
+}
+
+table
+{
+    border-collapse: collapse;
+}
+
+.data
+{
+    color: black;
+    font-weight: bold;
+}
+
+.hide
+{
+    color: gray;
+}
+
+table {
+    border-collapse: collapse;
+    background: white;
+    color: black;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+} 
